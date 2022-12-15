@@ -11,4 +11,5 @@ chmod +x setup.sh
 ```
 3. Then execute the start.sh script
 4. You can now use this at [0.0.0.0:5000]
--tested and used in linux only and docker doesn't work right now
+
+**NOTE** - tested and used in linux only and docker doesn't work right now
