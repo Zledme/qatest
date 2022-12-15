@@ -16,5 +16,6 @@ chmod +x setup.sh
 
 **Q.**
 ![image](https://user-images.githubusercontent.com/93548699/207914425-d6de340d-41db-4756-b782-4b76cadeef05.png)
+
 **A.**
 ![image](https://user-images.githubusercontent.com/93548699/207914574-d615dd14-f556-4d1f-8ea9-413525c66a33.png)
